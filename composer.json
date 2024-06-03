@@ -11,7 +11,6 @@
     "require": {
 		"illuminate/database": ">=5.9",
 		"illuminate/http": ">=5.1",
-		"foothing/laravel-repository": ">=0.9.0",
         	"nesbot/carbon": "^2.72.3",
 		"jaybizzle/crawler-detect": "1.*"
 	},
